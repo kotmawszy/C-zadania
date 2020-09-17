@@ -15,4 +15,4 @@ Wyjście
 15
 ```
 ### Ilustracja przykładu
-!(Przykład)[https://github.com/kotmawszy/C-zadania/edit/master/17.09.2020/Trapez/example.png?raw=true]
+![Przykład](example.png)
