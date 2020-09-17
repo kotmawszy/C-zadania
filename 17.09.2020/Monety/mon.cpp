@@ -1,22 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
-	ios_base::sync_with_stdio(0);
-	int n,a,ilosc1=0,ilosc0=0;
+int main() {
+	int n, a, n0=0, n1=0;
 	cin>>n;
-	for(int i;i<n;i++){
+	while(n--) {
 		cin>>a;
-		if(a==1){
-			ilosc1++;
-		}
-		else{
-			ilosc0++;
-		}
+		if(a == 1) n1++;
+		else n0++;
 	}
-	if(ilosc1>ilosc0){
-		cout<<ilosc0;
-	}
-	else{
-		cout<<ilosc1;
-	}
+	cout<<(n1 > n0 ? n0 : n1);
 }
