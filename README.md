@@ -1,6 +1,8 @@
 # C++ zadania
 ## 17.09.2020
-* Czynniki z liczby lustrzanej [rozwiązanie](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.cpp) [treść](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.pdf)
+* Czynniki z liczby lustrzanej
+  ** [rozwiązanie](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.cpp)
+  ** [treść](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.pdf)
 * [Gra w lewo i w prawo](17.09.2020/Gra_w_lewo_i_w_prawo.cpp)
 * [Gra w 10](17.09.2020/Gra_w_10.cpp)
 * [Ile potęg 3?](17.09.2020/Ile_potęg_3.cpp)
