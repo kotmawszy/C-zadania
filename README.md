@@ -1,34 +1,35 @@
 # C++ zadania
 ### 17.09.2020
 * Czynniki z liczby lustrzanej
-  * [Rozwiązanie](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.cpp)
   * [Treść](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.pdf)
+  * [Rozwiązanie](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.cpp)
 * Gra w lewo i w prawo
-  * [Rozwiązanie](17.09.2020/Gra_w_lewo_i_w_prawo/gpl.cpp)
   * [Treść](17.09.2020/Gra_w_lewo_i_w_prawo/gpl.pdf)
+  * [Rozwiązanie](17.09.2020/Gra_w_lewo_i_w_prawo/gpl.cpp)
 * Gra w 10
-  * [Rozwiązanie](17.09.2020/Gra_w_10/gwd.cpp)
   * [Treść](17.09.2020/Gra_w_10/gwd.pdf)
+  * [Rozwiązanie](17.09.2020/Gra_w_10/gwd.cpp)
 * Ile potęg 3?
-  * [Rozwiązanie](17.09.2020/Ile_potęg_3/ilt.cpp)
   * [Treść](17.09.2020/Ile_potęg_3/ilt.pdf)
+  * [Rozwiązanie](17.09.2020/Ile_potęg_3/ilt.cpp)
 * Liczby rosnących cyfr
-  * [Rozwiązanie](17.09.2020/Liczby_rosnących_cyfr/lrc.cpp)
   * [Treść](17.09.2020/Liczby_rosnących_cyfr/lrc.pdf)
+  * [Rozwiązanie](17.09.2020/Liczby_rosnących_cyfr/lrc.cpp)
 * Podzielne sumy reszt
+  * [Treść](17.09.2020/Podzielne_sumy_reszt/psr.md)
   * [Rozwiązanie](17.09.2020/Podzielne_sumy_reszt/psr.cpp)
 * Skarpety Mańka
-  * [Rozwiązanie](17.09.2020/Skarpety_Mańka/sma.cpp)
   * [Treść](17.09.2020/Skarpety_Mańka/sma.pdf)
+  * [Rozwiązanie](17.09.2020/Skarpety_Mańka/sma.cpp)
 * Trapez
-  * [Rozwiązanie](17.09.2020/Trapez/tra.cpp)
   * [Treść](17.09.2020/Trapez/tra.pdf)
+  * [Rozwiązanie](17.09.2020/Trapez/tra.cpp)
 * Zbiór
-  * [Rozwiązanie](17.09.2020/Zbiór/zbi.cpp)
   * [Treść](17.09.2020/Zbiór/zbi.pdf)
+  * [Rozwiązanie](17.09.2020/Zbiór/zbi.cpp)
 * Dzielniki
-  * [Rozwiązanie](17.09.2020/Dzielniki/dzie.cpp)
   * [Treść](17.09.2020/Dzielniki/dzie.pdf)
+  * [Rozwiązanie](17.09.2020/Dzielniki/dzie.cpp)
 * Monety
-  * [Rozwiązanie](17.09.2020/Monety/mon.cpp)
   * [Treść](17.09.2020/Monety/mon.pdf)
+  * [Rozwiązanie](17.09.2020/Monety/mon.cpp)
