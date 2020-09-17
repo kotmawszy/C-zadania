@@ -7,6 +7,7 @@ W pierwszym i jedynym wierszu wejścia znajduje się dwie liczby naturalne n i m
 ### Wyjście
 Jedyny wiersz wyjścia zawiera jedną liczbę całkowitą – odpowiedź na pytanie z zadania.
 ### Przykład
+
 Wejście
 ```
 10 2
@@ -15,6 +16,7 @@ Wyjście
 ```
 19
 ```
+---
 Wejście
 ```
 2 2
@@ -23,6 +25,7 @@ Wyjście
 ```
 3
 ```
+---
 Wejście
 ```
 9 3
