@@ -27,8 +27,8 @@
   * [Rozwiązanie](17.09.2020/Zbiór/zbi.cpp)
   * [Treść](17.09.2020/Zbiór/zbi.pdf)
 * Dzielniki
-  * [Rozwiązanie](17.09.2020/Dzielniki/dzie.pdf)
+  * [Rozwiązanie](17.09.2020/Dzielniki/dzie.cpp)
   * [Treść](17.09.2020/Dzielniki/dzie.pdf)
 * Monety
-  * [Rozwiązanie](17.09.2020/Monety/mon.pdf)
+  * [Rozwiązanie](17.09.2020/Monety/mon.cpp)
   * [Treść](17.09.2020/Monety/mon.pdf)
