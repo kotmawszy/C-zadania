@@ -13,5 +13,5 @@ program powinien wypisać
 ```
 3 11 37
 ```
-### Wyjaśnienie:
+### Wyjaśnienie
 Z liczby `21` uzyskujemy `1221`, zaś `3*11*37=1221`
