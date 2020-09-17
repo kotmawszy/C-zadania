@@ -4,8 +4,8 @@
   * [Treść](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.md) \[[PDF](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.pdf)\]
   * [Rozwiązanie](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.cpp)
 * Gra w lewo i w prawo
-  * [Treść](17.09.2020/Gra_w_lewo_i_w_prawo/gpl.md) \[[PDF](17.09.2020/Gra_w_lewo_i_w_prawo/gpl.pdf)\]
-  * [Rozwiązanie](17.09.2020/Gra_w_lewo_i_w_prawo/gpl.cpp)
+  * [Treść](17.09.2020/Gra_w_lewo_i_w_prawo/glp.md) \[[PDF](17.09.2020/Gra_w_lewo_i_w_prawo/glp.pdf)\]
+  * [Rozwiązanie](17.09.2020/Gra_w_lewo_i_w_prawo/glp.cpp)
 * Gra w 10
   * [Treść](17.09.2020/Gra_w_10/gwd.md) \[[PDF](17.09.2020/Gra_w_10/gwd.pdf)\]
   * [Rozwiązanie](17.09.2020/Gra_w_10/gwd.cpp)
