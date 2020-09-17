@@ -12,12 +12,12 @@ Pierwszy i jedyny wiersz wyjścia powinien najmniejszą liczbę większą niż a
 
 Dla danych wejściowych:
 
-`
+```
 11
-`
+```
 
 poprawną odpowiedzią jest:
 
-`
+```
 13
-`
+```
