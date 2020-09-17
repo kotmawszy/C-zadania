@@ -26,3 +26,5 @@
 * Zbiór
   * [Rozwiązanie](17.09.2020/Zbiór/zbi.cpp)
   * [Treść](17.09.2020/Zbiór/zbi.pdf)
+* Dzielniki
+  * [Treść](17.09.2020/Dzielniki/dzie.pdf)
