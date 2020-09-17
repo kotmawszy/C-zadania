@@ -6,8 +6,12 @@ Pierwszy wiersz danych zawiera liczbę całkowitą n.
 Program powinien wypisać rozkład liczby lustrzanej na czynniki pierwsze.
 ### Przykład
 Dla danych wejściowych:
-`21`
+```
+21
+```
 program powinien wypisać
-`3 11 37`
+```
+3 11 37
+```
 ### Wyjaśnienie:
 Z liczby `21` uzyskujemy `1221`, zaś `3*11*37=1221`
