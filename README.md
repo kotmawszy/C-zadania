@@ -1,5 +1,5 @@
 # C++ zadania
-## 17.09.2020
+#### 17.09.2020
 * Czynniki z liczby lustrzanej
   * [Rozwiązanie](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.cpp)
   * [Treść](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.pdf)
