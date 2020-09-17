@@ -29,3 +29,6 @@
 * Dzielniki
   * [Rozwiązanie](17.09.2020/Dzielniki/dzie.pdf)
   * [Treść](17.09.2020/Dzielniki/dzie.pdf)
+* Monety
+  * [Rozwiązanie](17.09.2020/Monety/mon.pdf)
+  * [Treść](17.09.2020/Monety/mon.pdf)
