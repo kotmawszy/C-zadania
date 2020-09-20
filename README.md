@@ -29,7 +29,7 @@
   * [Rozwiązanie](17.09.2020/Zbiór/zbi.cpp)
 * Dzielniki
   * [Treść](17.09.2020/Dzielniki/dzie.md) \[[PDF](17.09.2020/Dzielniki/dzie.pdf)\]
-  * [Rozwiązanie](17.09.2020/Dzielniki/dzie.cpp)
+  * Rozwiązanie [C++](17.09.2020/Dzielniki/dzie.cpp) [Python](17.09.2020/Dzielniki/dzie.py)
 * Monety
   * [Treść](17.09.2020/Monety/mon.md) \[[PDF](17.09.2020/Monety/mon.pdf)\]
   * Rozwiązanie [C++](17.09.2020/Monety/mon.cpp) [Python](17.09.2020/Monety/mon.py)
