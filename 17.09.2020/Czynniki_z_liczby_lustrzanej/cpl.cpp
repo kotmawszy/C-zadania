@@ -6,10 +6,10 @@ int main() {
     cin>>a;
 
     string b = a;
-    reverse(a.begin(),a.end());
+    reverse(a.begin(),a.end()); //odwrócenie stringa
 
     a+=b;
-    int x = atoi(a.c_str());
+    int x = atoi(a.c_str()); //zamiana stringa na inta
 
     while(x>1) {
         for(int i=2;i<=x;i++) {
