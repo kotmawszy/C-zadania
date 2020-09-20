@@ -32,4 +32,4 @@
   * [Rozwiązanie](17.09.2020/Dzielniki/dzie.cpp)
 * Monety
   * [Treść](17.09.2020/Monety/mon.md) \[[PDF](17.09.2020/Monety/mon.pdf)\]
-  * [Rozwiązanie](17.09.2020/Monety/mon.cpp)
+  * Rozwiązanie [C++](17.09.2020/Monety/mon.cpp) [Python](17.09.2020/Monety/mon.py)
