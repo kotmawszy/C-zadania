@@ -11,22 +11,22 @@
   * [Rozwiązanie](17.09.2020/Gra_w_10/gwd.cpp)
 * Ile potęg 3?
   * [Treść](17.09.2020/Ile_potęg_3/ilt.md) \[[PDF](17.09.2020/Ile_potęg_3/ilt.pdf)\]
-  * [Rozwiązanie](17.09.2020/Ile_potęg_3/ilt.cpp)
+  * Rozwiązanie [C++](17.09.2020/Ile_potęg_3/ilt.cpp) [Python](17.09.2020/Ile_potęg_3/ilt.py)
 * Liczby rosnących cyfr
   * [Treść](17.09.2020/Liczby_rosnących_cyfr/lrc.md) \[[PDF](17.09.2020/Liczby_rosnących_cyfr/lrc.pdf)\]
   * [Rozwiązanie](17.09.2020/Liczby_rosnących_cyfr/lrc.cpp)
 * Podzielne sumy reszt
   * [Treść](17.09.2020/Podzielne_sumy_reszt/psr.md)
-  * [Rozwiązanie](17.09.2020/Podzielne_sumy_reszt/psr.cpp)
+  * Rozwiązanie [C++](17.09.2020/Podzielne_sumy_reszt/psr.cpp) [Python](17.09.2020/Podzielne_sumy_reszt/psr.py)
 * Skarpety Mańka
   * [Treść](17.09.2020/Skarpety_Mańka/sma.md) \[[PDF](17.09.2020/Skarpety_Mańka/sma.pdf)\]
-  * [Rozwiązanie](17.09.2020/Skarpety_Mańka/sma.cpp)
+  * Rozwiązanie [C++](17.09.2020/Skarpety_Mańka/sma.cpp) [Python](17.09.2020/Skarpety_Mańka/sma.py)
 * Trapez
   * [Treść](17.09.2020/Trapez/tra.md) \[[PDF](17.09.2020/Trapez/tra.pdf)\]
-  * [Rozwiązanie](17.09.2020/Trapez/tra.cpp)
+  * Rozwiązanie [C++](17.09.2020/Trapez/tra.cpp) [Python](17.09.2020/Trapez/tra.py)
 * Zbiór
   * [Treść](17.09.2020/Zbiór/zbi.md) \[[PDF](17.09.2020/Zbiór/zbi.pdf)\]
-  * [Rozwiązanie](17.09.2020/Zbiór/zbi.cpp)
+  * Rozwiązanie [C++](17.09.2020/Zbiór/zbi.cpp) [Python](17.09.2020/Zbiór/zbi.py)
 * Dzielniki
   * [Treść](17.09.2020/Dzielniki/dzie.md) \[[PDF](17.09.2020/Dzielniki/dzie.pdf)\]
   * Rozwiązanie [C++](17.09.2020/Dzielniki/dzie.cpp) [Python](17.09.2020/Dzielniki/dzie.py)
