@@ -1,5 +1,5 @@
 x = 1
-c = int(0)
+c = 0
 a = int(input())
 b = int(input())
 
