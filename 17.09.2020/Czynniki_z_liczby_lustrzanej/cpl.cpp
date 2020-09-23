@@ -11,7 +11,7 @@ int main() {
     a+=b;
     int x = atoi(a.c_str()); //zamiana stringa na inta
 
-    while(x>1) {
+    while(x>1) { //rozkład na czynniki pierwsze
         for(int i=2;i<=x;i++) {
             if(x%i==0) {
                 cout<<i<<" ";
