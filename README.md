@@ -1,5 +1,5 @@
 # C++ zadania
-### 17.09.2020
+## 17.09.2020
 * Czynniki z liczby lustrzanej
   * [Treść](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.md) \[[PDF](17.09.2020/Czynniki_z_liczby_lustrzanej/cpl.pdf)\]
   * Rozwiązanie
@@ -56,7 +56,7 @@
     [C++](17.09.2020/Monety/mon.cpp)
     [Python](17.09.2020/Monety/mon.py)
 
-### 24.09.2020
+## 24.09.2020
 * Chińczyk
   * [Treść](24.09.2020/Chińczyk/chi.md) \[[PDF](24.09.2020/Chińczyk/chi.pdf)\]
   * Rozwiązanie
