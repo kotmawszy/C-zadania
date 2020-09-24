@@ -55,3 +55,35 @@
   * Rozwiązanie
     [C++](17.09.2020/Monety/mon.cpp)
     [Python](17.09.2020/Monety/mon.py)
+
+### 24.09.2020
+* Chińczyk
+  * [Treść](24.09.2020/Chińczyk/chi.md) \[[PDF](24.09.2020/Chińczyk/chi.pdf)\]
+    [C++](24.09.2020/Chińczyk/chi.cpp)
+* Parzyście - nieparzyście
+  * [Treść](24.09.2020/Parzyście_-_nieparzyście/cpn.md) \[[PDF](24.09.2020/Parzyście_-_nieparzyście/cpn.pdf)\]
+    [C++](24.09.2020/Parzyście_-_nieparzyście/cpn.cpp)
+* Cyfry pierwsze
+  * [Treść](24.09.2020/Cyfry_pierwsze/cpw.md) \[[PDF](24.09.2020/Cyfry_pierwsze/cpw.pdf)\]
+    [C++](24.09.2020/Cyfry_pierwsze/cpw.cpp)
+* Cukierki
+  * [Treść](24.09.2020/Cukierki/cuk.md) \[[PDF](24.09.2020/Cukierki/cuk.pdf)\]
+    [C++](24.09.2020/Cukierki/cuk.cpp)
+* 	Duża silnia
+  * [Treść](24.09.2020/Duża_silnia/dsi.md) \[[PDF](24.09.2020/Duża_silnia/dsi.pdf)\]
+    [C++](24.09.2020/Duża_silnia/dsi.cpp)
+* Dwójki
+  * [Treść](24.09.2020/Dwójki/dwo.md) \[[PDF](24.09.2020/Dwójki/dwo.pdf)\]
+    [C++](24.09.2020/Dwójki/dwo.cpp)
+* Ile liter w liczbie
+  * [Treść](24.09.2020/Ile_liter_w_liczbie/ilit.md) \[[PDF](24.09.2020/Ile_liter_w_liczbie/ilit.pdf)\]
+    [C++](24.09.2020/Ile_liter_w_liczbie/ilit.cpp)
+* Mapa ze skarbem
+  * [Treść](24.09.2020/Mapa_ze_skarbem/mzs.md) \[[PDF](24.09.2020/Mapa_ze_skarbem/mzs.pdf)\]
+    [C++](24.09.2020/Mapa_ze_skarbem/mzs.cpp)
+* Nieparzysty dzielnik
+  * [Treść](24.09.2020/Nieparzysty_dzielnik/npd.md) \[[PDF](24.09.2020/Nieparzysty_dzielnik/npd.pdf)\]
+    [C++](24.09.2020/Nieparzysty_dzielnik/npd.cpp)
+* 	Piramida z małpek
+  * [Treść](24.09.2020/Piramida_z_małpek/pzm.md) \[[PDF](24.09.2020/Piramida_z_małpek/pzm.pdf)\]
+    [C++](24.09.2020/Piramida_z_małpek/pzm.cpp)
