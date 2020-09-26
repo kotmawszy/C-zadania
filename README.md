@@ -70,6 +70,7 @@
   * [Treść](24.09.2020/Cyfry_pierwsze/cpw.md) \[[PDF](24.09.2020/Cyfry_pierwsze/cpw.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Cyfry_pierwsze/cpw.cpp)
+    [Python](24.09.2020/Cyfry_pierwsze/cpw.py)
 * Cukierki
   * [Treść](24.09.2020/Cukierki/cuk.md) \[[PDF](24.09.2020/Cukierki/cuk.pdf)\]
   * Rozwiązanie
