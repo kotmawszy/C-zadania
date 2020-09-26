@@ -61,6 +61,7 @@
   * [Treść](24.09.2020/Chińczyk/chi.md) \[[PDF](24.09.2020/Chińczyk/chi.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Chińczyk/chi.cpp)
+    [Python](24.09.2020/Chińczyk/chi.py)
 * Parzyście - nieparzyście
   * [Treść](24.09.2020/Parzyście_-_nieparzyście/cpn.md) \[[PDF](24.09.2020/Parzyście_-_nieparzyście/cpn.pdf)\]
   * Rozwiązanie
