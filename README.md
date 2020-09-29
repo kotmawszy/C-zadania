@@ -66,6 +66,7 @@
   * [Treść](24.09.2020/Parzyście_-_nieparzyście/cpn.md) \[[PDF](24.09.2020/Parzyście_-_nieparzyście/cpn.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Parzyście_-_nieparzyście/cpn.cpp)
+    [Python](24.09.2020/Parzyście_-_nieparzyście/cpn.py)
 * Cyfry pierwsze
   * [Treść](24.09.2020/Cyfry_pierwsze/cpw.md) \[[PDF](24.09.2020/Cyfry_pierwsze/cpw.pdf)\]
   * Rozwiązanie
@@ -74,11 +75,13 @@
 * Cukierki
   * [Treść](24.09.2020/Cukierki/cuk.md) \[[PDF](24.09.2020/Cukierki/cuk.pdf)\]
   * Rozwiązanie
-    [C++](24.09.2020/Cukierki/cuk.cpp)
+  [C++](24.09.2020/Cukierki/cuk.cpp)
+  [Python](24.09.2020/Cukierki/cuk.py)
 * Duża silnia
   * [Treść](24.09.2020/Duża_silnia/dsi.md) \[[PDF](24.09.2020/Duża_silnia/dsi.pdf)\]
   * Rozwiązanie
-    [C++](24.09.2020/Duża_silnia/dsi.cpp)
+  [C++](24.09.2020/Duża_silnia/dsi.cpp)
+  [Python](24.09.2020/Duża_silnia/dsi.py)
 * Dwójki
   * [Treść](24.09.2020/Dwójki/dwo.md) \[[PDF](24.09.2020/Dwójki/dwo.pdf)\]
   * Rozwiązanie
