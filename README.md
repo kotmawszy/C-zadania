@@ -102,3 +102,41 @@
   * [Treść](24.09.2020/Piramida_z_małpek/pzm.md) \[[PDF](24.09.2020/Piramida_z_małpek/pzm.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Piramida_z_małpek/pzm.cpp)
+
+## 1.10.2020
+* A. a(n)
+  * [Treść](01.10.2020/A/a.md) \[[PDF](01.10.2020/A/a.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/A/a.cpp)
+* Zepsuty Collatz
+  * [Treść](01.10.2020/Zepsuty_Collatz/col.md) \[[PDF](01.10.2020/Zepsuty_Collatz/col.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Zepsuty_Collatz/col.cpp)
+* Monety
+  * [Treść](01.10.2020/Monety/mon.md) \[[PDF](01.10.2020/Monety/mon.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Monety/mon.cpp)
+* Nowy porządek
+  * [Treść](01.10.2020/Nowy_porządek/now.md) \[[PDF](01.10.2020/Nowy_porządek/now.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Nowy_porządek/now.cpp)
+* Podstawowa arytmetyka
+  * [Treść](01.10.2020/Podstawowa_arytmetyka/pod.md) \[[PDF](01.10.2020/Podstawowa_arytmetyka/pod.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Podstawowa_arytmetyka/pod.cpp)
+* Składka
+  * [Treść](01.10.2020/Składka/skl.md) \[[PDF](01.10.2020/Składka/skl.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Składka/skl.cpp)
+* Suma liczb binarnie
+  * [Treść](01.10.2020/Suma_liczb_binarnie/smb.md) \[[PDF](01.10.2020/Suma_liczb_binarnie/smb.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Suma_liczb_binarnie/smb.cpp)
+* Turniej tenisowy
+  * [Treść](01.10.2020/Turniej_tenisowy/ten.md) \[[PDF](01.10.2020/Turniej_tenisowy/ten.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Turniej_tenisowy/ten.cpp)
+* Zet
+  * [Treść](01.10.2020/Zet/zet.md) \[[PDF](01.10.2020/Zet/zet.pdf)\]
+  * Rozwiązanie
+    [C++](01.10.2020/Zet/zet.cpp)
