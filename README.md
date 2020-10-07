@@ -90,6 +90,7 @@
   * [Treść](24.09.2020/Ile_liter_w_liczbie/ilit.md) \[[PDF](24.09.2020/Ile_liter_w_liczbie/ilit.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Ile_liter_w_liczbie/ilit.cpp)
+    [Python](24.09.2020/Ile_liter_w_liczbie/ilit.py)
 * Mapa ze skarbem
   * [Treść](24.09.2020/Mapa_ze_skarbem/mzs.md) \[[PDF](24.09.2020/Mapa_ze_skarbem/mzs.pdf)\]
   * Rozwiązanie
