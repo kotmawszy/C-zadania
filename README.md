@@ -86,6 +86,7 @@
   * [Treść](24.09.2020/Dwójki/dwo.md) \[[PDF](24.09.2020/Dwójki/dwo.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Dwójki/dwo.cpp)
+    [Python](24.09.2020/Dwójki/dwo.py)
 * Ile liter w liczbie
   * [Treść](24.09.2020/Ile_liter_w_liczbie/ilit.md) \[[PDF](24.09.2020/Ile_liter_w_liczbie/ilit.pdf)\]
   * Rozwiązanie
