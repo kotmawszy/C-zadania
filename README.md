@@ -96,6 +96,7 @@
   * [Treść](24.09.2020/Mapa_ze_skarbem/mzs.md) \[[PDF](24.09.2020/Mapa_ze_skarbem/mzs.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Mapa_ze_skarbem/mzs.cpp)
+    [Python](24.09.2020/Mapa_ze_skarbem/mzs.py)
 * Nieparzysty dzielnik
   * [Treść](24.09.2020/Nieparzysty_dzielnik/npd.md) \[[PDF](24.09.2020/Nieparzysty_dzielnik/npd.pdf)\]
   * Rozwiązanie
@@ -104,6 +105,7 @@
   * [Treść](24.09.2020/Piramida_z_małpek/pzm.md) \[[PDF](24.09.2020/Piramida_z_małpek/pzm.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Piramida_z_małpek/pzm.cpp)
+    [Python](24.09.2020/Piramida_z_małpek/pzm.py)
 
 ## 1.10.2020
 * A. a(n)
