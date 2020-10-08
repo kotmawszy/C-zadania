@@ -96,7 +96,6 @@
   * [Treść](24.09.2020/Mapa_ze_skarbem/mzs.md) \[[PDF](24.09.2020/Mapa_ze_skarbem/mzs.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Mapa_ze_skarbem/mzs.cpp)
-    [Python](24.09.2020/Mapa_ze_skarbem/mzs.cpp)
 * Nieparzysty dzielnik
   * [Treść](24.09.2020/Nieparzysty_dzielnik/npd.md) \[[PDF](24.09.2020/Nieparzysty_dzielnik/npd.pdf)\]
   * Rozwiązanie
@@ -105,13 +104,13 @@
   * [Treść](24.09.2020/Piramida_z_małpek/pzm.md) \[[PDF](24.09.2020/Piramida_z_małpek/pzm.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Piramida_z_małpek/pzm.cpp)
-    [Python](24.09.2020/Piramida_z_małpek/pzm.cpp)
 
 ## 1.10.2020
 * A. a(n)
   * [Treść](01.10.2020/A/a.md) \[[PDF](01.10.2020/A/a.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/A/a.cpp)
+    [Python](01.10.2020/A/a.cpp)
 * Zepsuty Collatz
   * [Treść](01.10.2020/Zepsuty_Collatz/col.md) \[[PDF](01.10.2020/Zepsuty_Collatz/col.pdf)\]
   * Rozwiązanie
@@ -120,6 +119,7 @@
   * [Treść](01.10.2020/Monety/mon.md) \[[PDF](01.10.2020/Monety/mon.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Monety/mon.cpp)
+    [Python](01.10.2020/Monety/mon.cpp)
 * Nowy porządek
   * [Treść](01.10.2020/Nowy_porządek/now.md) \[[PDF](01.10.2020/Nowy_porządek/now.pdf)\]
   * Rozwiązanie
@@ -132,6 +132,7 @@
   * [Treść](01.10.2020/Składka/skl.md) \[[PDF](01.10.2020/Składka/skl.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Składka/skl.cpp)
+    [Python](01.10.2020/Składka/skl.py)
 * Suma liczb binarnie
   * [Treść](01.10.2020/Suma_liczb_binarnie/smb.md) \[[PDF](01.10.2020/Suma_liczb_binarnie/smb.pdf)\]
   * Rozwiązanie
