@@ -148,3 +148,4 @@
   * [Treść](01.10.2020/Zet/zet.md) \[[PDF](01.10.2020/Zet/zet.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Zet/zet.cpp)
+    [Python](01.10.2020/Zet/zet.py)
