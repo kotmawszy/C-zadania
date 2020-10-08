@@ -140,6 +140,7 @@
   * [Treść](01.10.2020/Suma_liczb_binarnie/smb.md) \[[PDF](01.10.2020/Suma_liczb_binarnie/smb.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Suma_liczb_binarnie/smb.cpp)
+    [Python](01.10.2020/Suma_liczb_binarnie/smb.py)
 * Turniej tenisowy
   * [Treść](01.10.2020/Turniej_tenisowy/ten.md) \[[PDF](01.10.2020/Turniej_tenisowy/ten.pdf)\]
   * Rozwiązanie
