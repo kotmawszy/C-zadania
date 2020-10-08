@@ -130,6 +130,7 @@
   * [Treść](01.10.2020/Podstawowa_arytmetyka/pod.md) \[[PDF](01.10.2020/Podstawowa_arytmetyka/pod.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Podstawowa_arytmetyka/pod.cpp)
+    [Python](01.10.2020/Podstawowa_arytmetyka/pod.py)
 * Składka
   * [Treść](01.10.2020/Składka/skl.md) \[[PDF](01.10.2020/Składka/skl.pdf)\]
   * Rozwiązanie
