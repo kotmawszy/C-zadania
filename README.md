@@ -101,6 +101,7 @@
   * [Treść](24.09.2020/Nieparzysty_dzielnik/npd.md) \[[PDF](24.09.2020/Nieparzysty_dzielnik/npd.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Nieparzysty_dzielnik/npd.cpp)
+    [Python](24.09.2020/Nieparzysty_dzielnik/npd.py)
 * Piramida z małpek
   * [Treść](24.09.2020/Piramida_z_małpek/pzm.md) \[[PDF](24.09.2020/Piramida_z_małpek/pzm.pdf)\]
   * Rozwiązanie
