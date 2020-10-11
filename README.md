@@ -126,6 +126,7 @@
   * [Treść](01.10.2020/Nowy_porządek/now.md) \[[PDF](01.10.2020/Nowy_porządek/now.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Nowy_porządek/now.cpp)
+    [Python](01.10.2020/Nowy_porządek/now.py)
 * Podstawowa arytmetyka
   * [Treść](01.10.2020/Podstawowa_arytmetyka/pod.md) \[[PDF](01.10.2020/Podstawowa_arytmetyka/pod.pdf)\]
   * Rozwiązanie
