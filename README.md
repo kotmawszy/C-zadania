@@ -86,28 +86,34 @@
   * [Treść](24.09.2020/Dwójki/dwo.md) \[[PDF](24.09.2020/Dwójki/dwo.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Dwójki/dwo.cpp)
+    [Python](24.09.2020/Dwójki/dwo.py)
 * Ile liter w liczbie
   * [Treść](24.09.2020/Ile_liter_w_liczbie/ilit.md) \[[PDF](24.09.2020/Ile_liter_w_liczbie/ilit.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Ile_liter_w_liczbie/ilit.cpp)
+    [Python](24.09.2020/Ile_liter_w_liczbie/ilit.py)
 * Mapa ze skarbem
   * [Treść](24.09.2020/Mapa_ze_skarbem/mzs.md) \[[PDF](24.09.2020/Mapa_ze_skarbem/mzs.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Mapa_ze_skarbem/mzs.cpp)
+    [Python](24.09.2020/Mapa_ze_skarbem/mzs.py)
 * Nieparzysty dzielnik
   * [Treść](24.09.2020/Nieparzysty_dzielnik/npd.md) \[[PDF](24.09.2020/Nieparzysty_dzielnik/npd.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Nieparzysty_dzielnik/npd.cpp)
+    [Python](24.09.2020/Nieparzysty_dzielnik/npd.py)
 * Piramida z małpek
   * [Treść](24.09.2020/Piramida_z_małpek/pzm.md) \[[PDF](24.09.2020/Piramida_z_małpek/pzm.pdf)\]
   * Rozwiązanie
     [C++](24.09.2020/Piramida_z_małpek/pzm.cpp)
+    [Python](24.09.2020/Piramida_z_małpek/pzm.py)
 
 ## 1.10.2020
 * A. a(n)
   * [Treść](01.10.2020/A/a.md) \[[PDF](01.10.2020/A/a.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/A/a.cpp)
+    [Python](01.10.2020/A/a.cpp)
 * Zepsuty Collatz
   * [Treść](01.10.2020/Zepsuty_Collatz/col.md) \[[PDF](01.10.2020/Zepsuty_Collatz/col.pdf)\]
   * Rozwiązanie
@@ -116,22 +122,27 @@
   * [Treść](01.10.2020/Monety/mon.md) \[[PDF](01.10.2020/Monety/mon.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Monety/mon.cpp)
+    [Python](01.10.2020/Monety/mon.cpp)
 * Nowy porządek
   * [Treść](01.10.2020/Nowy_porządek/now.md) \[[PDF](01.10.2020/Nowy_porządek/now.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Nowy_porządek/now.cpp)
+    [Python](01.10.2020/Nowy_porządek/now.py)
 * Podstawowa arytmetyka
   * [Treść](01.10.2020/Podstawowa_arytmetyka/pod.md) \[[PDF](01.10.2020/Podstawowa_arytmetyka/pod.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Podstawowa_arytmetyka/pod.cpp)
+    [Python](01.10.2020/Podstawowa_arytmetyka/pod.py)
 * Składka
   * [Treść](01.10.2020/Składka/skl.md) \[[PDF](01.10.2020/Składka/skl.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Składka/skl.cpp)
+    [Python](01.10.2020/Składka/skl.py)
 * Suma liczb binarnie
   * [Treść](01.10.2020/Suma_liczb_binarnie/smb.md) \[[PDF](01.10.2020/Suma_liczb_binarnie/smb.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Suma_liczb_binarnie/smb.cpp)
+    [Python](01.10.2020/Suma_liczb_binarnie/smb.py)
 * Turniej tenisowy
   * [Treść](01.10.2020/Turniej_tenisowy/ten.md) \[[PDF](01.10.2020/Turniej_tenisowy/ten.pdf)\]
   * Rozwiązanie
@@ -140,3 +151,4 @@
   * [Treść](01.10.2020/Zet/zet.md) \[[PDF](01.10.2020/Zet/zet.pdf)\]
   * Rozwiązanie
     [C++](01.10.2020/Zet/zet.cpp)
+    [Python](01.10.2020/Zet/zet.py)
