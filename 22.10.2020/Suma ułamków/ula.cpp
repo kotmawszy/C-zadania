@@ -2,10 +2,12 @@
 using namespace std;
 
 int main() {
-  int a,b,c,d;
+  long long a,b,c,d;
   cin>>a>>b>>c>>d;
-  int m = b/__gcd(b,d)*d;
+  long long m = b/__gcd(b,d)*d;
   a*=m/b;
   c*=m/d;
-  cout<<a+b<<"/"<<m;
+  long long l = a+c;
+  long long g = __gcd(l,m);
+  cout<<l/g<<"/"<<m/g;
 }
