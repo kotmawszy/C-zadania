@@ -153,7 +153,7 @@
     [C++](01.10.2020/Zet/zet.cpp)
     [Python](01.10.2020/Zet/zet.py)
     
-## 22.10.2020* 
+## 22.10.2020
 * Trzy Liczby
   * [Treść](22.10.2020/Trzy_liczby_rosnąco/tlr.md) \[[PDF](22.10.2020/Trzy_liczby_rosnąco/tlr.pdf)\]
   * Rozwiązanie
