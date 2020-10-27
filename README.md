@@ -152,3 +152,15 @@
   * Rozwiązanie
     [C++](01.10.2020/Zet/zet.cpp)
     [Python](01.10.2020/Zet/zet.py)
+    
+## 22.10.2020* 
+* Trzy Liczby
+  * [Treść](22.10.2020/Trzy_liczby_rosnąco/tlr.md) \[[PDF](22.10.2020/Trzy_liczby_rosnąco/tlr.pdf)\]
+  * Rozwiązanie
+    [C++](22.10.2020/Trzy_liczby_rosnąco/tlr.cpp)
+    [Python](22.10.2020/Trzy_liczby_rosnąco/tlr.py)
+* Suma ułamków
+  * [Treść](22.10.2020/Suma_ułamków/ula.md) \[[PDF](22.10.2020/Suma_ułamków/ula.pdf)\]
+  * Rozwiązanie
+    [C++](22.10.2020/Suma_ułamków/ula.cpp)
+    [Python](22.10.2020/Suma_ułamków/ula.py)
