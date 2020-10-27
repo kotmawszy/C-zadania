@@ -164,3 +164,8 @@
   * Rozwiązanie
     [C++](22.10.2020/Suma_ułamków/ula.cpp)
     [Python](22.10.2020/Suma_ułamków/ula.py)
+* Bliźniacze liczby pierwsze
+  * [Treść](22.10.2020/Bliźniacze_liczby_pierwsze/bli.md) \[[PDF](22.10.2020/Bliźniacze_liczby_pierwsze/bli.pdf)\]
+  * Rozwiązanie
+    [C++](22.10.2020/Bliźniacze_liczby_pierwsze/bli.cpp)
+    [Python](22.10.2020/Bliźniacze_liczby_pierwsze/bli.py)
