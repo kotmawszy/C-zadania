@@ -168,4 +168,4 @@
   * [Treść](22.10.2020/Bliźniacze_liczby_pierwsze/bli.md) \[[PDF](22.10.2020/Bliźniacze_liczby_pierwsze/bli.pdf)\]
   * Rozwiązanie
     [C++](22.10.2020/Bliźniacze_liczby_pierwsze/bli.cpp)
-    [Python](22.10.2020/Bliźniacze liczby pierwsze/bli.py)
+    [Python](22.10.2020/Bliźniacze_liczby_pierwsze/bli.py)
