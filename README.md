@@ -165,7 +165,7 @@
     [C++](Lekcja/2020.10.22/Suma_ułamków/ula.cpp)
     [Python](Lekcja/2020.10.22/Suma_ułamków/ula.py)
 * Bliźniacze liczby pierwsze
-  * [Treść](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/bli.md) \[[PDF](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/bli.pdf)\]
+  * [Treść](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/blp.md) \[[PDF](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/blp.pdf)\]
   * Rozwiązanie
-    [C++](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/bli.cpp)
-    [Python](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/bli.py)
+    [C++](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/blp.cpp)
+    [Python](Lekcja/2020.10.22/Bliźniacze_liczby_pierwsze/blp.py)
