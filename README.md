@@ -219,15 +219,15 @@
     [C++](Lekcja/2020.11.05/Figura_-_A._Pole/pola.cpp)
     [-](Lekcja/2020.11.05/Figura_-_A._Pole/pola.py)
 * Figura - B. Współrzędne prostokąta
-  * [Treść](Lekcja/2020.11.05/Figura - B. Współrzędne prostokąta/polb.md) \[[PDF](Lekcja/2020.11.05/Figura - B. Współrzędne prostokąta/polb.pdf)\]
+  * [Treść](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.md) \[[PDF](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.pdf)\]
   * Rozwiązanie
-    [C++](Lekcja/2020.11.05/Figura - B. Współrzędne prostokąta/polb.cpp)
-    [-](Lekcja/2020.11.05/Figura - B. Współrzędne prostokąta/polb.py)
+    [C++](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.cpp)
+    [-](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.py)
 * Liczba PI
-  * [Treść](Lekcja/2020.11.05/Liczba PI/lipi.md) \[[PDF](Lekcja/2020.11.05/Liczba PI/lipi.pdf)\]
+  * [Treść](Lekcja/2020.11.05/Liczba_PI/lipi.md) \[[PDF](Lekcja/2020.11.05/Liczba_PI/lipi.pdf)\]
   * Rozwiązanie
-    [C++](Lekcja/2020.11.05/Liczba PI/lipi.cpp)
-    [-](Lekcja/2020.11.05/Liczba PI/lipi.py)
+    [C++](Lekcja/2020.11.05/Liczba_PI/lipi.cpp)
+    [-](Lekcja/2020.11.05/Liczba_PI/lipi.py)
     
 ## 12.11.2020
 * Bankomat
@@ -236,15 +236,15 @@
     [C++](Lekcja/2020.11.12/Bankomat/bank.cpp)
     [-](Lekcja/2020.11.12/Bankomat/bank.py)
 * Grusze i jabłonie
-  * [Treść](Lekcja/2020.11.12/Grusze i jabłonie/gru.md) \[[PDF](Lekcja/2020.11.12/Grusze i jabłonie/gru.pdf)\]
+  * [Treść](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.md) \[[PDF](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.pdf)\]
   * Rozwiązanie
-    [C++](Lekcja/2020.11.12/Grusze i jabłonie/gru.cpp)
-    [-](Lekcja/2020.11.12/Grusze i jabłonie/gru.py)
+    [C++](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.cpp)
+    [-](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.py)
 * Na przemian
-  * [Treść](Lekcja/2020.11.12/Na przemian/nap.md) \[[PDF](Lekcja/2020.11.12/Na przemian/nap.pdf)\]
+  * [Treść](Lekcja/2020.11.12/Na_przemian/nap.md) \[[PDF](Lekcja/2020.11.12/Na_przemian/nap.pdf)\]
   * Rozwiązanie
-    [C++](Lekcja/2020.11.12/Na przemian/nap.cpp)
-    [-](Lekcja/2020.11.12/Na przemian/nap.py)
+    [C++](Lekcja/2020.11.12/Na_przemian/nap.cpp)
+    [-](Lekcja/2020.11.12/Na_przemian/nap.py)
 * Szuflady
   * [Treść](Lekcja/2020.11.12/Szuflady/szu.md) \[[PDF](Lekcja/2020.11.12/Szuflady/szu.pdf)\]
   * Rozwiązanie
