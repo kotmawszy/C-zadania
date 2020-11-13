@@ -130,21 +130,18 @@ int main() {
     int miny = min(x,y+dyx);
 
     if(maxx != maxy) {
-      //cout<<"MAX ";
       if(maxx<maxy) {
         cout<<x+dxy<<" "<<y<<"\n";
       } else {
         cout<<x<<" "<<y+dyx<<"\n";
       }
     } else if(minx != miny) {
-      //cout<<"MIN ";
       if(minx<miny) {
         cout<<x+dxy<<" "<<y<<"\n";
       } else {
         cout<<x<<" "<<y+dyx<<"\n";
       }
     } else {
-      //cout<<"OSTATECZNIE ";
       if(x+dxy<=y+dyx) {
         cout<<x+dxy<<" "<<y<<"\n";
       } else {
