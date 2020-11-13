@@ -75,13 +75,13 @@
 * Cukierki
   * [Treść](Lekcja/2020.09.24/Cukierki/cuk.md) \[[PDF](Lekcja/2020.09.24/Cukierki/cuk.pdf)\]
   * Rozwiązanie
-  [C++](Lekcja/2020.09.24/Cukierki/cuk.cpp)
-  [Python](Lekcja/2020.09.24/Cukierki/cuk.py)
+    [C++](Lekcja/2020.09.24/Cukierki/cuk.cpp)
+    [Python](Lekcja/2020.09.24/Cukierki/cuk.py)
 * Duża silnia
   * [Treść](Lekcja/2020.09.24/Duża_silnia/dsi.md) \[[PDF](Lekcja/2020.09.24/Duża_silnia/dsi.pdf)\]
   * Rozwiązanie
-  [C++](Lekcja/2020.09.24/Duża_silnia/dsi.cpp)
-  [Python](Lekcja/2020.09.24/Duża_silnia/dsi.py)
+    [C++](Lekcja/2020.09.24/Duża_silnia/dsi.cpp)
+    [Python](Lekcja/2020.09.24/Duża_silnia/dsi.py)
 * Dwójki
   * [Treść](Lekcja/2020.09.24/Dwójki/dwo.md) \[[PDF](Lekcja/2020.09.24/Dwójki/dwo.pdf)\]
   * Rozwiązanie
@@ -173,85 +173,85 @@
   * [Treść](Lekcja/2020.10.22/Liczby_super-B-pierwsze/sbp.md) \[[PDF](Lekcja/2020.10.22/Liczby_super-B-pierwsze/sbp.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.22/Liczby_super-B-pierwsze/sbp.cpp)
-    [-](Lekcja/2020.10.22/Liczby_super-B-pierwsze/sbp.py)
+    [](Lekcja/2020.10.22/Liczby_super-B-pierwsze/sbp.py)
 * Liczby własne Kaprekara
   * [Treść](Lekcja/2020.10.22/Liczby_własne_Kaprekara/kap.md) \[[PDF](Lekcja/2020.10.22/Liczby_własne_Kaprekara/kap.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.22/Liczby_własne_Kaprekara/kap.cpp)
-    [-](Lekcja/2020.10.22/Liczby_własne_Kaprekara/kap.py)
+    [](Lekcja/2020.10.22/Liczby_własne_Kaprekara/kap.py)
     
 ## 29.10.2020
 * Miejsce zerowe wielomianu
   * [Treść](Lekcja/2020.10.29/Miejsce_zerowe_wielomianu/mzw.md) \[[PDF](Lekcja/2020.10.29/Miejsce_zerowe_wielomianu/mzw.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.29/Miejsce_zerowe_wielomianu/mzw.cpp)
-    [-](Lekcja/2020.10.29/Miejsce_zerowe_wielomianu/mzw.py)
+    [](Lekcja/2020.10.29/Miejsce_zerowe_wielomianu/mzw.py)
 * Odwróć o dodaj
   * [Treść](Lekcja/2020.10.29/Odwróć_i_dodaj/oid.md) \[[PDF](Lekcja/2020.10.29/Odwróć_i_dodaj/oid.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.29/Odwróć_i_dodaj/oid.cpp)
-    [-](Lekcja/2020.10.29/Odwróć_i_dodaj/oid.py)
+    [](Lekcja/2020.10.29/Odwróć_i_dodaj/oid.py)
 * Pierwiastek
   * [Treść](Lekcja/2020.10.29/Pierwiastek/pier.md) \[[PDF](Lekcja/2020.10.29/Pierwiastek/pier.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.29/Pierwiastek/pier.cpp)
-    [-](Lekcja/2020.10.29/Pierwiastek/pier.py)
+    [](Lekcja/2020.10.29/Pierwiastek/pier.py)
 * Problem Collatza
   * [Treść](Lekcja/2020.10.29/Problem_Collatza/coll.md) \[[PDF](Lekcja/2020.10.29/Problem_Collatza/coll.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.29/Problem_Collatza/coll.cpp)
-    [-](Lekcja/2020.10.29/Problem_Collatza/coll.py)
+    [](Lekcja/2020.10.29/Problem_Collatza/coll.py)
 * Super-dzielnik
   * [Treść](Lekcja/2020.10.29/Super-dzielnik/sdz.md) \[[PDF](Lekcja/2020.10.29/Super-dzielnik/sdz.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.29/Super-dzielnik/sdz.cpp)
-    [-](Lekcja/2020.10.29/Super-dzielnik/sdz.py)
+    [](Lekcja/2020.10.29/Super-dzielnik/sdz.py)
     
 ## 05.11.2020
 * Długość krzywej bn2
   * [Treść](Lekcja/2020.11.05/Długość_krzywej_bn2/bn2.md) \[[PDF](Lekcja/2020.11.05/Długość_krzywej_bn2/bn2.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.05/Długość_krzywej_bn2/bn2.cpp)
-    [-](Lekcja/2020.11.05/Długość_krzywej_bn2/bn2.py)
+    [](Lekcja/2020.11.05/Długość_krzywej_bn2/bn2.py)
 * Figura - A. Pole
   * [Treść](Lekcja/2020.11.05/Figura_-_A._Pole/pola.md) \[[PDF](Lekcja/2020.11.05/Figura_-_A._Pole/pola.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.05/Figura_-_A._Pole/pola.cpp)
-    [-](Lekcja/2020.11.05/Figura_-_A._Pole/pola.py)
+    [](Lekcja/2020.11.05/Figura_-_A._Pole/pola.py)
 * Figura - B. Współrzędne prostokąta
   * [Treść](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.md) \[[PDF](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.cpp)
-    [-](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.py)
+    [](Lekcja/2020.11.05/Figura_-_B._Współrzędne_prostokąta/polb.py)
 * Liczba PI
   * [Treść](Lekcja/2020.11.05/Liczba_PI/lipi.md) \[[PDF](Lekcja/2020.11.05/Liczba_PI/lipi.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.05/Liczba_PI/lipi.cpp)
-    [-](Lekcja/2020.11.05/Liczba_PI/lipi.py)
+    [](Lekcja/2020.11.05/Liczba_PI/lipi.py)
     
 ## 12.11.2020
 * Bankomat
   * [Treść](Lekcja/2020.11.12/Bankomat/bank.md) \[[PDF](Lekcja/2020.11.12/Bankomat/bank.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.12/Bankomat/bank.cpp)
-    [-](Lekcja/2020.11.12/Bankomat/bank.py)
+    [](Lekcja/2020.11.12/Bankomat/bank.py)
 * Grusze i jabłonie
   * [Treść](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.md) \[[PDF](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.cpp)
-    [-](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.py)
+    [](Lekcja/2020.11.12/Grusze_i_jabłonie/gru.py)
 * Na przemian
   * [Treść](Lekcja/2020.11.12/Na_przemian/nap.md) \[[PDF](Lekcja/2020.11.12/Na_przemian/nap.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.12/Na_przemian/nap.cpp)
-    [-](Lekcja/2020.11.12/Na_przemian/nap.py)
+    [](Lekcja/2020.11.12/Na_przemian/nap.py)
 * Szuflady
   * [Treść](Lekcja/2020.11.12/Szuflady/szu.md) \[[PDF](Lekcja/2020.11.12/Szuflady/szu.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.12/Szuflady/szu.cpp)
-    [-](Lekcja/2020.11.12/Szuflady/szu.py)
+    [](Lekcja/2020.11.12/Szuflady/szu.py)
 * Zwycięzcy
   * [Treść](Lekcja/2020.11.12/Zwycięzcy/zwy.md) \[[PDF](Lekcja/2020.11.12/Zwycięzcy/zwy.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.11.12/Zwycięzcy/zwy.cpp)
-    [-](Lekcja/2020.11.12/Zwycięzcy/zwy.py)
+    [](Lekcja/2020.11.12/Zwycięzcy/zwy.py)
