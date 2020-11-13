@@ -118,6 +118,7 @@
   * [Treść](Lekcja/2020.10.01/Zepsuty_Collatz/col.md) \[[PDF](Lekcja/2020.10.01/Zepsuty_Collatz/col.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.01/Zepsuty_Collatz/col.cpp)
+    [Python](Lekcja/2020.10.01/Zepsuty_Collatz/col.py)
 * Monety
   * [Treść](Lekcja/2020.10.01/Monety/mon.md) \[[PDF](Lekcja/2020.10.01/Monety/mon.pdf)\]
   * Rozwiązanie
@@ -147,6 +148,7 @@
   * [Treść](Lekcja/2020.10.01/Turniej_tenisowy/ten.md) \[[PDF](Lekcja/2020.10.01/Turniej_tenisowy/ten.pdf)\]
   * Rozwiązanie
     [C++](Lekcja/2020.10.01/Turniej_tenisowy/ten.cpp)
+    [Python](Lekcja/2020.10.01/Turniej_tenisowy/ten.py)
 * Zet
   * [Treść](Lekcja/2020.10.01/Zet/zet.md) \[[PDF](Lekcja/2020.10.01/Zet/zet.pdf)\]
   * Rozwiązanie
