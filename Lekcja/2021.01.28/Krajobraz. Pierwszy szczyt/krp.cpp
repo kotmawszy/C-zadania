@@ -2,10 +2,9 @@
 using namespace std;
 
 int n;
-float* x;
-float* y;
-float mv=numeric_limits<float>::max();
-int mi;
+int* x;
+int* y;
+int m;
 
 int main() {
   ios_base::sync_with_stdio(0);
@@ -13,15 +12,14 @@ int main() {
   cout.tie(NULL);
 
   cin>>n;
-  x = new float[n];
-  y = new float[n];
+  x = new int[n];
+  y = new int[n];
   for(int i=0;i<n;i++) cin>>x[i];
   for(int i=0;i<n;i++) cin>>y[i];
 
-  for(int i=0;i<n;i++) {
-    float z = x[i]/y[i];
-    if(z<mv) mv=z,mi=i;
+  for(int i=1;i<n;i++) {
+    if(x[i] * y[m] < x[m] * y[i]) m = i;
   }
 
-  cout<<x[mi]<<" "<<y[mi]<<"\n";
+  cout<<x[m]<<" "<<y[m]<<"\n";
 }
