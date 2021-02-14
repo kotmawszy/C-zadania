@@ -15,15 +15,15 @@ int lv=1,lvv=1;
 int getMin(int ra, int rb, int ca, int cb, int rv=1, int cv=1, int rp=1, int rq=lv, int cp=1, int cq=lvv) {
   if(rp>rb || rq<ra) return INF;
   if(rp>=ra && rq<=rb) {
-        if(cp>cb || cq<ca) return INF;
-        if(cp>=ca && cq<=cb) {
-          return d[rv][cv];
-        }
-        int cs = (cp+cq)/2;
-        return min(
-          getMin(ra,rb,ca,cb,rv,2*cv,rp,rq,cp,cs),
-          getMin(ra,rb,ca,cb,rv,2*cv+1,rp,rq,cs+1,cq)
-        );
+    if(cp>cb || cq<ca) return INF;
+    if(cp>=ca && cq<=cb) {
+      return d[rv][cv];
+    }
+    int cs = (cp+cq)/2;
+    return min(
+      getMin(ra,rb,ca,cb,rv,2*cv,rp,rq,cp,cs),
+      getMin(ra,rb,ca,cb,rv,2*cv+1,rp,rq,cs+1,cq)
+    );
   }
   int rs = (rp+rq)/2;
   return min(
