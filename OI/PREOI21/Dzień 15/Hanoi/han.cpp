@@ -3,26 +3,26 @@ using namespace std;
 
 long long MOD = 1e9+7;
 
-long long pot(long long a, long long b) {
+long long pot(long long a, int b) {
 	if(b==0) return 1;
-	if(b%2) return a*pot(a,b-1)%MOD;
-	long long c=pot(a,b/2);
+	if(b%2) return pot(a,b-1)*a%MOD;
+	long long c = pot(a,b/2);
 	return c*c%MOD;
 }
 
-int n,q,a;
-multiset<int> s;
-set<int> pomocniczysecik;
-long long* dp;
-vector<int> tab;
-bool podzadanie2 = true;
+int n,q;
+map<int,int> m;
+int* tab;
 int* queries;
+int t;
+int lv=1;
+pair<long long,long long>* d;
 
-long long f(int n) {
-	if(n==0) return 0;
-	int k=1;
-	for(int i=n-1;i>=0 && tab[i]==tab[i+1];i--) k++;
-	return (2*f(n-k)+k)%MOD;
+void updateVertex(int v) {
+	d[v]=make_pair(
+		(d[2*v].first * pot(2,d[2*v+1].second)%MOD + d[2*v+1].first)%MOD,
+		d[2*v].second + d[2*v+1].second
+	);
 }
 
 int main() {
@@ -31,53 +31,40 @@ int main() {
 	cout.tie(NULL);
 
 	cin>>n>>q;
-	queries = new int[q];
+
+	tab = new int[n+1];
 	for(int i=1;i<=n;i++) {
-		cin>>a;
-		if(pomocniczysecik.find(a)!=pomocniczysecik.end()) podzadanie2=false;
-		pomocniczysecik.insert(a);
-		s.insert(a);
+		cin>>tab[i];
+		m[tab[i]]=1;
 	}
-	for(int i=0;i<q;i++) {
+
+	queries = new int[q+1];
+	for(int i=1;i<=q;i++) {
 		cin>>queries[i];
-		if(queries[i]>0) {
-			if(pomocniczysecik.find(queries[i]) != pomocniczysecik.end()) podzadanie2=false;
-			pomocniczysecik.insert(queries[i]);
-		} else {
-			auto x = pomocniczysecik.find(-queries[i]);
-			if(x != pomocniczysecik.end()) pomocniczysecik.erase(x);
-		}
+		if(queries[i]>0)m[queries[i]]=1;
 	}
 
-	if(podzadanie2) {
-		for(int i=0;i<q;i++) {
-			if(queries[i]>0) n++;
-			else n--;
-			cout<<pot(2,n)-1<<"\n";
-		}
-		return 0;
+	map<int,int>::iterator i = m.begin();
+	for(int j=1;i!=m.end();i++,j++) i->second=j;
+	t=m.size();
+
+	while(lv<t) lv*=2;
+	d = new pair<long long,long long>[2*lv];
+	for(int i=1;i<2*lv;i++) d[i]=make_pair(0,0);
+	for(int i=1;i<=n;i++) {
+		int index = lv+m[tab[i]]-1;
+		d[index].first++;
+		d[index].second=1;
 	}
-
-	tab.clear();
-	tab.push_back(0);
-	for(int i : s) tab.push_back(i);
-	
-	cout<<f(n)<<"\n";
-
-	for(int i=0;i<q;i++) {
-		if(queries[i]>0) {
-			s.insert(queries[i]);
-			n++;
-		} else {
-			auto x = s.find(-queries[i]);
-			if(x != s.end()) s.erase(x);
-			n--;
-		}
-		tab.clear();
-		tab.push_back(0);
-		for(int i : s) tab.push_back(i);
-
-		cout<<f(n)<<"\n";
+	for(int i=lv-1;i>=1;i--) {
+		updateVertex(i);
 	}
-
+	for(int i=1;i<=q;i++) {
+		int v = lv+m[abs(queries[i])]-1;
+		if(queries[i]>0) d[v].first++;
+		else d[v].first--;
+		d[v].second=(bool)d[v].first;
+		for(v/=2;v;v/=2) updateVertex(v);
+		cout<<d[1].first<<"\n";
+	}
 }
