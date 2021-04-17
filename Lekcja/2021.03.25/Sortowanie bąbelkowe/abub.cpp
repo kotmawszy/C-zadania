@@ -1,20 +1,26 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <cstdio>
 
 int n;
-int tab[100007];
+int tab[100000];
+char c;
 
 int main() {
-  ios_base::sync_with_stdio(0);
-  cin.tie(NULL);
-  cout.tie(NULL);
-
-  cin>>n;
-  for(int i=0;i<n;i++) cin>>tab[i];
+  scanf("%d",&n);
+  for(int i=0;i<n;i++) {
+    c='0';
+    do {
+      c = getchar_unlocked();
+    } while(c<'0' || c>'9');
+    do {
+      tab[i]*=10;
+      tab[i]+=c-'0';
+      c = getchar_unlocked();
+    } while(c>='0' && c<='9');
+  }
 
   for(int j=0;j<n-1;j++) {
     for(int i=0;i<n-1-j;i++) {
-      if(tab[i]>=tab[i+1]) {
+      if(tab[i]>tab[i+1]) {
         int r=tab[i];
         tab[i]=tab[i+1];
         tab[i+1]=r;
@@ -22,5 +28,5 @@ int main() {
     }
   }
 
-  for(int i=0;i<n;i++) cout<<tab[i]<<" ";
+  for(int i=0;i<n;i++) printf("%d ",tab[i]);
 }
