@@ -10,8 +10,7 @@ int main() {
   int tab[n+1];
   for(int i=1;i<=n;i++) cin>>tab[i];
 
-  int i=2;
-  while(i<=n) {
+  for(int i=2;i<=n;i++) {
     int j=i-1;
     int k=tab[i];
     while(j>0 && tab[j]>k) {
@@ -19,7 +18,6 @@ int main() {
       j--;
     }
     tab[j+1]=k;
-    i++;
   }
 
   for(int i=1;i<=n;i++) cout<<tab[i]<<" ";
